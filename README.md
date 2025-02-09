@@ -9,3 +9,8 @@ This research has significant practical implications, paving the way for action 
 **Single person**
 <p align="center">
     <img src="https://github.com/dvskabangira/Human-action-detection-tracking-and-recognition-based-on-openpose/blob/main/life.gif", width="540">
+
+
+**Multiple person**
+<p align="center">
+    <img src="https://github.com/dvskabangira/Human-action-detection-tracking-and-recognition-based-on-openpose/blob/main/life.gif", width="540">
