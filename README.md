@@ -7,4 +7,4 @@ This research has significant practical implications, paving the way for action 
 ------
 ***Demo Results***
 <p align="center">
-    <img src="https://github.com/dvskabangira/Skeleton-based-Action-recognition/blob/main/", width="540">
+    <img src="https://github.com/dvskabangira/Skeleton-based-Action-recognition/blob/main/life.gif", width="540">
