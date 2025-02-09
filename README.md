@@ -13,4 +13,4 @@ This research has significant practical implications, paving the way for action 
 
 **Multiple person**
 <p align="center">
-    <img src="https://github.com/dvskabangira/Human-action-detection-tracking-and-recognition-based-on-openpose/blob/main/life.gif", width="540">
+    <img src="https://github.com/dvskabangira/Human-action-detection-tracking-and-recognition-based-on-openpose/blob/main/li.gif", width="540">
